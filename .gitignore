@@ -1,3 +1,6 @@
 #Ignore MAC file system files
 .mac
 .DS_store
+
+#Ignore Github Checkpoint files
+.ipynb_checkpoints
